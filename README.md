@@ -1,15 +1,5 @@
-# Team 17 Homework 4
-To access Team 17 main status page, you will be required to go to 159.203.248.29/ 
-Then, whenever prompt for basic AUTH, the credentials are:
-```
-username : team 
-password : teamteam
-```
-
-> Then, in order to access the soundboard app, either click the link on the index page or go to
-> 159.203.248.29/soundboard/index
-
-> Click [here](https://docs.google.com/presentation/d/1Bpu1G6bDBUfd_gGQ6ERIYukbNJASC5LueoBoXMZpdgM/edit?usp=sharing) to see our report
+# Soundboard
+https://travis-ci.org/nickosaur/Soundboard.svg?branch=master
 
 # User Guide
 
