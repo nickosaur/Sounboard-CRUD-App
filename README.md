@@ -1,5 +1,4 @@
 # Soundboard
-https://travis-ci.org/nickosaur/Soundboard.svg?branch=master
 
 # User Guide
 
